@@ -1,68 +1,6 @@
 <resources>
-    <string name="app_name">程序员的Demo集合</string>
+    <string name="app_name">安卓集合</string>
 
-    <string name="tv_about">关于这个app</string>
-    <string name="tv_about_des">搜索公众号[kindle书社]---回复测试源码</string>
-    <string name="tv_about_send">索取源码</string>
-    <string name="tv_about_input">输入您有效的电子邮件</string>
-    <string name="tv_about_confirm">调用手机可用的发送邮件的app</string>
-    <string name="btn_about_confirm">确认发送</string>
-    <string name="tv_about_cancle">取消</string>
-    <string name="tv_about_update_title">检查新版本可以获取更多demo</string>
-    <string name="tv_about_update_update">检查新版本</string>
-
-
-    <string name="tv_expand">ExpandableListView的Demo</string>
-
-    <string name="tv_button_switch">ButtonSwitch的Demo</string>
-    <string name="toggle_button">ToggleButton实现</string>
-    <string name="toggle_button_ios">ToggleButton仿IOS7开关实现</string>
-
-
-    <string name="tv_my_checkbox_one">自定义CheckBox一</string>
-    <string name="tv_my_checkbox_two">自定义CheckBox二</string>
-
-    <string name="btn_compound">自定义CompoundButton实现</string>
-
-
-    <string name="slide_switch_view">自定义View实现(可滑动)</string>
-
-
-    <string name="tv_do">功能相关</string>
-    <string name="tv_pdf_read">Pdf阅读的Demo</string>
-    <string name="tv_video_play">视频播放的Demo</string>
-    <string name="tv_audio_play">音频播放的Demo</string>
-    <string name="tv_recycler">RecyclerView的demo</string>
-    <string name="tv_recycler_listview_s">RecyclerView显示listview竖直</string>
-    <string name="tv_recycler_listview_h">RecyclerView显示listview横向</string>
-    <string name="tv_recycler_gridview">RecyclerView显示gridview</string>
-    <string name="tv_recycler_strag">RecyclerView显示瀑布流横向</string>
-    <string name="tv_recycler_strager">RecyclerView显示瀑布流竖直</string>
-
-    <string name="tv_data">时间选择器</string>
-    <string name="tv_data_picker">原生pick日期选择器</string>
-    <string name="tv_data_calendar_card">日历展示形式</string>
-    <string name="tv_data_calendar">安卓自带日历一</string>
-    <string name="tv_data_calendar2">安卓自带日历二</string>
-
-    <string name="select_calendar_card">选择的日期是: %s</string>
-
-    <string name="tv_send_code">验证码相关</string>
-    <string name="tv_code_sixty">验证码倒计时60s</string>
-
-    <string name="tv_actionbar_one_share">分享</string>
-    <string name="tv_actionbar_one_title">标题</string>
-    <string name="tv_actionbar_one_back">返回</string>
-
-
-    <string name="tv_activity_home">首页</string>
-    <string name="tv_activity_me">我的</string>
-    <string name="et_username_fragment">请输入你的用户名</string>
-    <string name="et_password_fragment">请输入你的密码</string>
-    <string name="et_email_register">请输入你的电子邮箱</string>
-    <string name="btn_login">登录</string>
-    <string name="btn_register">注册</string>
-    <string name="tv_fragment_logined">已经登录，谢谢</string>
 
 
 </resources>
